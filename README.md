@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @crypps1412
+- 👋 Hi, I’m @Crypps1412
 - 👀 I’m interested in many things
 - 🌱 I’m currently learning embedded c++
-- 💞️ I’m looking to collaborate on mobile robot
+- 💞️ I’m looking to collaborate on mobile robot and drone
 - 📫 How to reach me? Well here's my fb link: https://www.facebook.com/trungnghia.pham.3154
 
 <!---
